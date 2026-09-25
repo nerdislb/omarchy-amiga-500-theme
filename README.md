@@ -8,8 +8,10 @@ around the active window, and pixel wallpapers that actually move.
 
 ![Preview](assets/preview.png)
 
-*A real screenshot: Neovim, fastfetch, lazygit and Ghostty with the Boing
-background behind translucent terminals. Private bar widgets are pixelated.*
+*A real screenshot: Ghostty with fastfetch, Neovim and lazygit, the Boing
+background moving behind the translucent terminals.*
+
+![Terminal](assets/terminal.png)
 
 > [!IMPORTANT]
 > **Animated backgrounds need Omarchy's current development branch**
@@ -28,9 +30,9 @@ Cycle backgrounds with `Super + Ctrl + Space` or `omarchy theme bg next`.
 
 ## Videos
 
-- [assets/desktop.mp4](assets/desktop.mp4): an 18-second screen recording of a
-  real desktop. Boing bounces on an empty workspace, then four windows tile
-  over it.
+- [assets/desktop.mp4](assets/desktop.mp4): a screen recording of a real
+  desktop. Boing bounces on an empty workspace, three windows tile over it,
+  then `omarchy theme bg next` switches to the next animated backgrounds.
 - [assets/showcase.mp4](assets/showcase.mp4): a 47-second run through every
   animated background.
 
@@ -63,7 +65,7 @@ while a fullscreen window covers it. For battery options see
 ![Desktop](assets/desktop.png)
 
 Screenshots of each animated background on an empty workspace, taken on a
-1080p laptop. The Guru frame happened to be in its dark phase.
+1080p laptop.
 
 The same five scenes also ship as 3840x2160 PNGs (`11-*.png` to `15-*.png`),
 for stable Omarchy releases or for anyone who prefers their desktop to hold
