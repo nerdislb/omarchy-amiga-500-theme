@@ -8,6 +8,9 @@ around the active window, and pixel wallpapers that actually move.
 
 ![Preview](assets/preview.png)
 
+*A real screenshot: Neovim, fastfetch, lazygit and Ghostty with the Boing
+background behind translucent terminals. Private bar widgets are pixelated.*
+
 > [!IMPORTANT]
 > **Animated backgrounds need Omarchy's current development branch**
 > (`quattro`, Omarchy 4.0 alpha). That branch plays video backgrounds through
@@ -23,10 +26,13 @@ omarchy theme install https://github.com/nerdislb/omarchy-amiga-500-theme
 
 Cycle backgrounds with `Super + Ctrl + Space` or `omarchy theme bg next`.
 
-## Showcase
+## Videos
 
-A 47-second run through every animated background:
-[assets/showcase.mp4](assets/showcase.mp4)
+- [assets/desktop.mp4](assets/desktop.mp4): an 18-second screen recording of a
+  real desktop. Boing bounces on an empty workspace, then four windows tile
+  over it.
+- [assets/showcase.mp4](assets/showcase.mp4): a 47-second run through every
+  animated background.
 
 ## Animated backgrounds
 
@@ -52,12 +58,16 @@ A moving background costs more power than a still one. OWE pauses playback
 while a fullscreen window covers it. For battery options see
 `/usr/share/doc/owe/config.toml.example`.
 
-## Still backgrounds
+## On a real desktop
 
-![Backgrounds](assets/backgrounds.png)
+![Desktop](assets/desktop.png)
 
-The same five scenes as 3840x2160 PNGs, for stable Omarchy releases or for
-anyone who prefers their desktop to hold still.
+Screenshots of each animated background on an empty workspace, taken on a
+1080p laptop. The Guru frame happened to be in its dark phase.
+
+The same five scenes also ship as 3840x2160 PNGs (`11-*.png` to `15-*.png`),
+for stable Omarchy releases or for anyone who prefers their desktop to hold
+still.
 
 ## Where the colours come from
 
