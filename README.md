@@ -14,11 +14,12 @@ background moving behind the translucent terminals.*
 ![Terminal](assets/terminal.png)
 
 > [!IMPORTANT]
-> **Animated backgrounds need Omarchy's current development branch**
-> (`quattro`, Omarchy 4.0 alpha). That branch plays video backgrounds through
-> OWE, Omarchy's wallpaper engine. On a stable release, use the still
-> versions of every wallpaper (`11-*.png` to `15-*.png`). The colours, borders
-> and everything else work on both.
+> **Animated backgrounds need Omarchy's development branch.** Video
+> backgrounds are played by OWE, Omarchy's wallpaper engine, which landed on
+> the `quattro` branch after the v4.0.4 release. Released versions up to v4.0.4
+> don't play them yet; there, use the still version of every wallpaper
+> (`11-*.png` to `15-*.png`). The colours, borders and everything else work on
+> both.
 
 ## Installation
 
