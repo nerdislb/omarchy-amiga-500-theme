@@ -1,0 +1,51 @@
+# Amiga 500
+# The screen after the disk went in. Workbench 1.3 drew everything with four
+# pens: blue #0055AA, white, black #000022 and orange #FF8800. This theme keeps
+# those four, pulls the blue down to a navy you can read code on for hours,
+# and fills the remaining slots from the rest of the machine.
+mode = "dark"
+
+# The orange pen is the accent. The active border is one copper bar, the
+# raster effect every Amiga demo opened with, running top to bottom.
+accent = "#ff8800"
+hyprland_active_border = "rgba(ff8800ff) rgba(ffd23fff) rgba(ffffffff) rgba(4fc3d9ff) rgba(0055aaff) 90deg"
+hyprland_inactive_border = "rgba(2a3d5caa)"
+
+# Workbench 1.3 marked a selected icon by swapping its pens: orange, black ink.
+selection = "#16294a"
+selection_background = "#ff8800"
+selection_foreground = "#000022"
+muted = "#5f7090"
+
+# Workbench blue at night.
+background = "#0c1a30"
+dark_background = "#08121f"
+darker_background = "#050c16"
+lighter_background = "#16294a"
+
+# The white pen, softened a touch for long sessions.
+foreground = "#dfe6f0"
+dark_foreground = "#8797b0"
+light_foreground = "#ffffff"
+bright_foreground = "#ffffff"
+
+# Red is the Guru Meditation frame, green the power LED, blue the Workbench
+# blue lifted until it reads on navy. Every normal slot holds at least 4.6:1
+# against the background.
+red = "#ea4b41"
+orange = "#ff8800"
+yellow = "#ffd23f"
+green = "#44cc55"
+blue = "#4884d8"
+cyan = "#4fc3d9"
+magenta = "#b45cd6"
+purple = "#b45cd6"
+brown = "#2a3d5c"
+
+bright_red = "#ff6b5e"
+bright_orange = "#ffaa44"
+bright_yellow = "#ffe680"
+bright_green = "#8be08f"
+bright_blue = "#7fb0ff"
+bright_cyan = "#9be3ee"
+bright_magenta = "#d69cf0"
