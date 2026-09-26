@@ -6,6 +6,10 @@ An Omarchy theme for the machine that turned bedrooms into demo studios. Dark
 navy from the Workbench 1.3 blue, the orange pen as accent, one copper bar
 around the active window, and pixel wallpapers that actually move.
 
+Prefer a light desktop? The companion theme
+[omarchy-amiga-500-kickstart-theme](https://github.com/nerdislb/omarchy-amiga-500-kickstart-theme)
+puts the same machine on a Workbench 2.0 grey.
+
 ![Preview](assets/preview.png)
 
 *A real screenshot: Ghostty with fastfetch, Neovim and lazygit, the Boing
